@@ -116,5 +116,4 @@ Each channel must be edited in order to make it 4K. The following channels have 
 This texture pack is distributed for free under the principle of "fair use" to improve accessibility and visual quality. It should not be used for commercial purposes or any form of profit.  
 
 ### Intellectual Property
-All original content is owned by Nintendo. This project does not intend to infringe on Nintendo's copyrights or intellectual property. If you are a representative of Nintendo or any other entity with rights to the original content and believe this project violates your rights, please contact Alan-bur to resolve the matter amicably.
-
+All original content is owned by Nintendo. This project does not intend to infringe on Nintendo's copyrights or intellectual property.
