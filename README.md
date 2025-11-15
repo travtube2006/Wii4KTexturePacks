@@ -2,13 +2,10 @@
 
 
 
-https://github.com/Alan-bur/Wii-4K/assets/24195711/9022e63b-7b60-4183-85a7-c5888fb9aaae
 
-## About
-This project aims to prevent the Wii Menu from pixelating on modern screens. It only works on Dolphin Emulator and it can't be loaded by a real Wii since it does not support 4K textures. Everything has been remade and polished with over 3000 new textures, so you can now enjoy using the Wii Menu on modern screens.
 
-Originally published by **SuperDuperRob** in 2020 as _HD Wii Texture Pack_, **Alan-bur** has taken over to complete the project because it was unfinished and forgotten. Unfortunately, he got greedy and removed everything from his GitHub repo, making downloads only available on Patreon (and you need to pay to get the download). He also decided to make you join his Discord server just to get the installation instructions.
-However, he didn't completely delete his repo, so I forked it and reverted the bad changes he made. Now you can download it for free (like you previously could) and get instructions without joining a Discord server.
+
+
 
 ## What has been changed?
 - Channels (Icons & Banners)
@@ -101,8 +98,6 @@ Each channel must be edited in order to make it 4K. The following channels have 
 - The Homebrew Channel
 - Riivolution
 
-## Known Bugs:
-
 ### Channels
 - TV no Tomo Channel textures don’t fit very well making the lines and blocks not align correctly.
 - Mario Kart Channel thumbnail has blue stars and they should be displayed as yellow.
@@ -116,13 +111,6 @@ Each channel must be edited in order to make it 4K. The following channels have 
 - **Parental Controls:** I had to remake the “Choose a question” section so that the questions are not clickable. This was done so I don’t have to turn nonsense textures into 4K.
   - The secret question section is also not 4K (and it won’t be) because it requires input.
   - Fonts are a bit missplaced.
-
-## Next update
-I have no idea what the next update will be. Check the original repo for information about updates.
-
-## Donations
-I don't encourage donating to people that hide their download links behind a paywall and a Discord server.
-If you really want to donate to the original creator, you can find his Patreon link at the bottom of the README in the original repo.
 
 ### Fair Use
 This texture pack is distributed for free under the principle of "fair use" to improve accessibility and visual quality. It should not be used for commercial purposes or any form of profit.  
