@@ -124,21 +124,9 @@ I have no idea what the next update will be. Check the original repo for informa
 I don't encourage donating to people that hide their download links behind a paywall and a Discord server.
 If you really want to donate to the original creator, you can find his Patreon link at the bottom of the README in the original repo.
 
-## DISCLAIMER
-This texture pack is an unofficial fan project and is not affiliated with, endorsed, or approved by Nintendo. All textures have been created or modified by Alan-bur to enhance the visual experience on modern emulators and are not intended for commercial use.
-
 ### Fair Use
 This texture pack is distributed for free under the principle of "fair use" to improve accessibility and visual quality. It should not be used for commercial purposes or any form of profit.  
-> Then why did you move to Patreon and start making people pay for it?
 
 ### Intellectual Property
 All original content is owned by Nintendo. This project does not intend to infringe on Nintendo's copyrights or intellectual property. If you are a representative of Nintendo or any other entity with rights to the original content and believe this project violates your rights, please contact Alan-bur to resolve the matter amicably.
-
-### About Donations
-In the words of **Alan-bur** (the creator of this texture pack):  
-> Donations are entirely optional and are meant to support my ongoing work in creating and maintaining fan projects. Donations are not payments for this texture pack and do not grant any special access or benefits related to it.
-
-### Contact
-For any inquiries or removal requests, please contact the original creator at alanbur2020@gmail.com.  
-If you have a request related to this fork, please send an email to <ins>53nppcxl \[at] anonaddy \[dot] com</ins> (only contact me if it's important).
 
